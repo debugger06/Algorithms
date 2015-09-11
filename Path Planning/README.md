@@ -1,8 +1,8 @@
 
-After getting inspiration from tic tac toe and implemented the game mechanics for connect four on a 6 × 7 board. Realize proper functionality for random moves and game termination tests; have a tournament between two players moving at random (but of course according to the game rules) and tried to collect statistics as to likely good moves;
+The file simpleMap-1-20x20.txt contains a 20 × 20 matrix of zeros and ones. Think of this matrix as the representation of a 2D game map where fields marked 0 are locations a player can be in whereas fields marked 1 represent parts of walls.
+Implemented program reads data like these and transform them into a grid graph (a.k.a. a lattice) where there is a vertex for every zero and an edge between any two vertically or horizontally adjacent zeros. Fields marked 1 should not occur in graph. As a picture says a thousand words, here is an illustration as to how your graph should look like:
+![](http://s6.postimg.org/u8c155ln5/Screen_Shot_2015_09_11_at_16_23_41.png) 
 
-![](http://s6.postimg.org/dtm8myc41/Connect_Four.gif) 
-(Image Courtesy: Wikipedia)
 
 Image Courtesy: Wikipedia
 
