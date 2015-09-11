@@ -1,5 +1,9 @@
 
-Probabilistic Strategy for Tic-Tac-Toe: Implemented a probabilistic strategy. 
+After getting inspiration from tic tac toe and implemented the game mechanics for connect four on a 6 × 7 board. Realize proper functionality for random moves and game termination tests; have a tournament between two players moving at random (but of course according to the game rules) and tried to collect statistics as to likely good moves;
+
+![alt tag](http://s6.postimg.org/wry0oedht/Screen_Shot_2015_09_11_at_09_52_08.png)
+
+
 
 - Have both players play many games (at least 1000) of tic tac toe in order to create a statistic of auspicious positions on the board;
 - After each game, test if a player has won and if so, determine the fields this player occupied in order to count for each field how often it contributed to a win;
