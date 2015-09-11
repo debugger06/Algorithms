@@ -17,7 +17,7 @@ We Played many times and observed:
 2. Apply minmax algorithm on it
 3. Try to avoid loss -> select either Winning or Draw game states
 
-Problem: Original complete game tree has 9! nodes
+**Problem: Original complete game tree has 9! nodes**
 
 What can be the best strategic move?
 
