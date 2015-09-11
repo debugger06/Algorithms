@@ -1,13 +1,3 @@
-# TASK 2.3 - Min Max for CONNECT 4 #
-########################
-# Arash Nasirtafreshi  #
-# Hasan Mahmud         #
-# Mana Azamat          #
-# Mohammad Saifullah   # 
-# Mudra Shah           #
-# Tanya Agarwal        #
-# Urmimala Majumdar    #
-########################
 import numpy as np
 from connect4 import *
 
