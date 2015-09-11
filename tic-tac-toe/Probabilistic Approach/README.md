@@ -10,4 +10,4 @@ Probabilistic Strategy for Tic-Tac-Toe: Implemented a probabilistic strategy.
 - Start another tournament and plot the new histogram of wins and draws
 
 Analysis:
-![alt tag](https://www.dropbox.com/s/2582l8ywp5kbkgv/Screen%20Shot%202015-09-11%20at%2002.43.01.png?dl=0)
+![alt tag]( https://www.dropbox.com/s/2582l8ywp5kbkgv/Screen%20Shot%202015-09-11%20at%2002.43.01.png?dl=0 )
