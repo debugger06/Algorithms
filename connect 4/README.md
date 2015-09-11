@@ -1,7 +1,7 @@
 
 After getting inspiration from tic tac toe and implemented the game mechanics for connect four on a 6 × 7 board. Realize proper functionality for random moves and game termination tests; have a tournament between two players moving at random (but of course according to the game rules) and tried to collect statistics as to likely good moves;
 
-![Image Courtesy: Wikipedia](http://s6.postimg.org/dtm8myc41/Connect_Four.gif)
+![](http://s6.postimg.org/dtm8myc41/Connect_Four.gif) (Image Courtesy: Wikipedia)
 
 
 
