@@ -20,3 +20,10 @@ We confirmed way of reading map matrices and creating graphs therefrom works in 
 - A* Algorithm
     - Heuristic is the euclidean distance
     - If heuristic is taken as number of steps (edges to be traversed) then it works almost the same as Dijkstra’s algorithm.
+
+**Result**
+![alt tag](http://s6.postimg.org/udu13fe1d/Screen_Shot_2015_09_12_at_00_32_13.png)
+![alt tag](http://s6.postimg.org/bms3t9jgx/Screen_Shot_2015_09_12_at_00_34_17.png)
+![alt tag](http://s6.postimg.org/hozqjr7wx/Screen_Shot_2015_09_12_at_00_35_27.png)
+![alt tag](http://s6.postimg.org/i35nx3he9/Screen_Shot_2015_09_12_at_00_36_27.png)
+![alt tag](http://s6.postimg.org/y2obgndg1/Screen_Shot_2015_09_12_at_00_37_52.png)
