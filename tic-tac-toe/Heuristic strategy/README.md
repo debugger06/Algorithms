@@ -9,4 +9,4 @@ We Played many times and observed:
 - 2nd player does not play -> any of the corner or diagonal centre Then, 2nd player will inevitable lose.
 - The same thing also applies to 1st player. Main Idea: Use Diagonal corner and Corners
 
-
+![alt tag](http://s6.postimg.org/cgvctkzwx/Screen_Shot_2015_09_11_at_10_38_48.png)
