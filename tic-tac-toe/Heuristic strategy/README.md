@@ -3,6 +3,7 @@ use this function for the moves of player X and have player O move at random; st
 
 
 **Our Observation:**
+
 We Played many times and observed:
 - If 1st player plays -> any of the corner or diagonal centre
 - 2nd player does not play -> any of the corner or diagonal centre Then, 2nd player will inevitable lose.
