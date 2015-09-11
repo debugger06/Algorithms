@@ -11,3 +11,5 @@ Probabilistic Strategy for Tic-Tac-Toe: Implemented a probabilistic strategy.
 
 Analysis:
 ![alt tag](http://s6.postimg.org/wry0oedht/Screen_Shot_2015_09_11_at_09_52_08.png)
+
+![alt tag](http://s6.postimg.org/b6sy0sgr5/Screen_Shot_2015_09_11_at_09_56_22.png)
