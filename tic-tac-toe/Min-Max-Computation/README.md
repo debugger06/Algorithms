@@ -5,6 +5,7 @@ After applying MaxNodeUtil method on n0, the tree looks like:
 ![alt tag](http://s6.postimg.org/a02fonqhd/Screen_Shot_2015_09_11_at_13_25_23.png)
 
 If there are more than one node having same utility, it does not create exact result. For example for the following case for maxNodeUtil(n0):
+
 ![alt tag](http://s6.postimg.org/nv0q74kwh/Screen_Shot_2015_09_11_at_13_27_10.png)
 
 - The implementation may create inappropriate result for selecting next move from n0 as there is a tie on its successors.
