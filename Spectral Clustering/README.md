@@ -1,6 +1,6 @@
 
 An appropriate way of clustering (waypoint) graphs is to consider spectral decompositions of the graph Laplacian L. simpleDungeonMap.txt generates a waypoint graph. Normalized Laplacian can be computed as:
-![](http://s6.postimg.org/davulnmq5/Screen_Shot_2015_09_12_at_01_07_08.png) 
+      ![](http://s6.postimg.org/davulnmq5/Screen_Shot_2015_09_12_at_01_07_08.png) 
 
 
 
