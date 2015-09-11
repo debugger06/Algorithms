@@ -1,15 +1,3 @@
-# TASK 1.2.1 -           #
-# PROBABILISTIC STRATEGY #
-##########################
-# Arash Nasirtafreshi    #
-# Mana Azamat            #
-# Mohammad Saifullah     #
-# Mudra Shah             #
-# Tanya Agarwal          #
-# Urmimala Majumdar      #
-# Hasan Mahmud	         #
-##########################
-
 import numpy as np
 import matplotlib.pyplot as plt
 import pylab
@@ -139,7 +127,8 @@ if __name__ == '__main__':
     gameCounter = 0
     drawCounter = 0
     resultmatrix = np.zeros((3,3), dtype=int)
-    while (gameCounter<1000):
+    gameIteration = 1000
+    while (gameCounter<gameIteration):
         gameCounter +=1
         
         #print '**************************** Starting the Game:', gameCounter
