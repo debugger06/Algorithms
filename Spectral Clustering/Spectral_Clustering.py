@@ -1,15 +1,3 @@
-# TASK 3.1 -           #
-# SPECTRAL CLUSTERING  #
-########################
-# Arash Nasirtafreshi  #
-# Mana Azamat          #
-# Mohammad Saifullah   # 
-# Mudra Shah           #
-# Tanya Agarwal        #
-# Urmimala Majumdar    #
-# Hasan Mahmud         #
-########################
-
 import numpy as np
 import scipy
 import numpy.linalg as lg
@@ -150,9 +138,9 @@ def spectral_clustering(a_map_mirrored, num_cluster):
 
 
 if __name__ == '__main__':
-	print "-----------------------------"
-	print "Task 3.1: Spectral Clustering"
-	print "-----------------------------"
+	print "-------------------"
+	print "Spectral Clustering"
+	print "-------------------"
 	flag = True
 	while flag: 
 		#Converting the text data into array
