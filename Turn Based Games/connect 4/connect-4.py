@@ -1,14 +1,3 @@
-# TASK 1.3 - CONNECT 4 #
-########################
-# Arash Nasirtafreshi  #
-# Mana Azamat          #
-# Mohammad Saifullah   # 
-# Mudra Shah           #
-# Tanya Agarwal        #
-# Urmimala Majumdar    #
-# Hasan Mahmud	       #
-########################
-
 import numpy as np
 import matplotlib.pyplot as plt
 import pylab
