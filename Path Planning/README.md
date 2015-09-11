@@ -6,6 +6,12 @@ Implemented program reads data like these and transform them into a grid graph (
 We confirmed way of reading map matrices and creating graphs therefrom works in general. It is Assumed the (0, 0) coordinate of our game world coincides with the vertex in the lower left corner of the graph. In the following picture, the vertex colored in red is thus located at grid coordinates (0, 10) and the green one resides at (15, 1).
 ![alt tag](http://s6.postimg.org/cmieoyymp/Screen_Shot_2015_09_12_at_00_23_24.png)
 
+**Generating graph**
+- Considered 1 as a wall
+- For lower left corner to be (0,0) origin for all maps
+    - Removed the extra walls from the input matrix
+- grid_2d_graph() from networkx
+
 
 Image Courtesy: Wikipedia
 
