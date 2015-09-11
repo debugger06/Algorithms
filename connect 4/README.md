@@ -12,6 +12,9 @@ Image Courtesy: Wikipedia
 **Minmax Search for Connect four**
 
 To determine how good a node in search tree is at a particular depth
-● Our approach : Assign a score based on how close the player is to completing any particular feature and also taking into account how close the opponent is to completing any particular feature
+- Our approach : Assign a score based on how close the player is to completing any particular feature and also taking into account how close the opponent is to completing any particular feature
 For example, a feature could be : 3 in-a-row
-● Based on the feature count, an evaluated value is assigned to the node and compared.
+- Based on the feature count, an evaluated value is assigned to the node and compared.
+
+**￼Comparis**
+![alt tag](http://s6.postimg.org/kpg4gx2a9/Screen_Shot_2015_09_11_at_13_40_23.png)
