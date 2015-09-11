@@ -3,6 +3,9 @@ The file simpleMap-1-20x20.txt contains a 20 × 20 matrix of zeros and ones. Thi
 Implemented program reads data like these and transform them into a grid graph (a.k.a. a lattice) where there is a vertex for every zero and an edge between any two vertically or horizontally adjacent zeros. Fields marked 1 should not occur in graph. As a picture says a thousand words, here is an illustration as to how your graph should look like:
 ![](http://s6.postimg.org/u8c155ln5/Screen_Shot_2015_09_11_at_16_23_41.png) 
 
+We confirmed way of reading map matrices and creating graphs therefrom works in general. It is Assumed the (0, 0) coordinate of our game world coincides with the vertex in the lower left corner of the graph. In the following picture, the vertex colored in red is thus located at grid coordinates (0, 10) and the green one resides at (15, 1).
+![alt tag](http://s6.postimg.org/uhismkd75/Screen_Shot_2015_09_11_at_11_15_40.png)
+
 
 Image Courtesy: Wikipedia
 
