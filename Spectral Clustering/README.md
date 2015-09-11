@@ -1,7 +1,14 @@
 
+An appropriate way of clustering (waypoint) graphs is to consider spectral decompositions of the graph Laplacian L. simpleDungeonMap.txt generates a waypoint graph. Normalized Laplacian can be computed as:
+![](http://s6.postimg.org/davulnmq5/Screen_Shot_2015_09_12_at_01_07_08.png) 
+
+
+
+
+
 After getting inspiration from tic tac toe and implemented the game mechanics for connect four on a 6 × 7 board. Realize proper functionality for random moves and game termination tests; have a tournament between two players moving at random (but of course according to the game rules) and tried to collect statistics as to likely good moves;
 
-![](http://s6.postimg.org/dtm8myc41/Connect_Four.gif) 
+![](http://s6.postimg.org/davulnmq5/Screen_Shot_2015_09_12_at_01_07_08.png) 
 (Image Courtesy: Wikipedia)
 
 Image Courtesy: Wikipedia
