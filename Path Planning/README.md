@@ -4,7 +4,7 @@ Implemented program reads data like these and transform them into a grid graph (
 ![](http://s6.postimg.org/u8c155ln5/Screen_Shot_2015_09_11_at_16_23_41.png) 
 
 We confirmed way of reading map matrices and creating graphs therefrom works in general. It is Assumed the (0, 0) coordinate of our game world coincides with the vertex in the lower left corner of the graph. In the following picture, the vertex colored in red is thus located at grid coordinates (0, 10) and the green one resides at (15, 1).
-![alt tag](http://s6.postimg.org/uhismkd75/Screen_Shot_2015_09_11_at_11_15_40.png)
+![alt tag](http://s6.postimg.org/cmieoyymp/Screen_Shot_2015_09_12_at_00_23_24.png)
 
 
 Image Courtesy: Wikipedia
