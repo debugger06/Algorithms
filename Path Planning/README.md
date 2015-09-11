@@ -12,18 +12,11 @@ We confirmed way of reading map matrices and creating graphs therefrom works in 
     - Removed the extra walls from the input matrix
 - grid_2d_graph() from networkx
 
-
-Image Courtesy: Wikipedia
-
-![alt tag](http://s6.postimg.org/uhismkd75/Screen_Shot_2015_09_11_at_11_15_40.png)
-![alt tag](http://s6.postimg.org/u61c9swr5/Screen_Shot_2015_09_11_at_11_17_35.png)
-
-**Minmax Search for Connect four**
-
-To determine how good a node in search tree is at a particular depth
-- Our approach : Assign a score based on how close the player is to completing any particular feature and also taking into account how close the opponent is to completing any particular feature
-For example, a feature could be : 3 in-a-row
-- Based on the feature count, an evaluated value is assigned to the node and compared.
-
-**￼Comparis**
-![alt tag](http://s6.postimg.org/kpg4gx2a9/Screen_Shot_2015_09_11_at_13_40_23.png)
+**Algorithms**
+- Dijkstra’s algorithm:
+    - Select neighbors with minimum distance and move ahead
+    - Instead of making a distance matrix from source
+    - Stop calculating when destination is found
+- A* Algorithm
+    - Heuristic is the euclidean distance
+    - If heuristic is taken as number of steps (edges to be traversed) then it works almost the same as Dijkstra’s algorithm.
